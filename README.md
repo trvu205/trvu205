@@ -28,17 +28,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,vscode" />
 </p>
 
----
-
-## 📌 Featured Project
-
-### 🏠 House Price Prediction using Machine Learning
-
-A machine learning project for predicting house prices using regression, clustering, classification, dimensionality reduction, and model evaluation.
-
-**Tech stack:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Jupyter Notebook
-
-🔗 Repository: [House-Price-Prediction-ML](https://github.com/trvu205/House-Price-Prediction-ML)
 
 ---
 
