@@ -3,7 +3,7 @@
 I'm a Mathematics and Computer Science student interested in Artificial Intelligence, Machine Learning, and Software Development.
 
 ## About me
-
+-🎓 Student at University of Science (VNU-HUS).
 - Studying Mathematics and Computer Science
 - Interested in AI, Machine Learning, Data Analysis, and Backend Development
 - Currently improving my skills in Python, Java, Git, Docker, and Scikit-learn
