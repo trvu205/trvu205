@@ -1,16 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vu</h1>
 
-<p align="center">
-  <b>Mathematics and Computer Science Student</b>  
-  <br>
-  Interested in Artificial Intelligence, Machine Learning, and Software Development
-</p>
 
 ---
 
 ## 👨‍💻 About me
 
-* 🎓 Mathematics and Computer Science student at VNU-HUS
+* 🎓 Mathematics and Information Technology student at VNU-HUS
 * 🤖 Interested in AI, Machine Learning, Data Analysis, and Backend Development
 * 📊 Building machine learning projects with Python, Pandas, NumPy, and Scikit-learn
 * 🚀 Currently improving my skills in Java, Git, Docker, and model evaluation
