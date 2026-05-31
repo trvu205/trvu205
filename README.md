@@ -16,11 +16,11 @@
 ## 🛠️ Technologies & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,git,github,docker,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,java,git,github,docker,mysql" />
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 
