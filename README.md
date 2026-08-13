@@ -16,7 +16,7 @@
 ## 🛠️ Technologies & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,git,github,docker,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,java,springboot,reactjs,git,github,docker,mysql" />
 </p>
 
 <p>
