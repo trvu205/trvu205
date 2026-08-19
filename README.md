@@ -6,9 +6,6 @@
 ## 👨‍💻 About me
 
 *  Mathematics and Information Technology student at VNU-HUS
-*  Interested in AI, Machine Learning, Data Analysis, and Backend Development
-*  Building machine learning projects with Python, Pandas, NumPy, and Scikit-learn
-*  Currently improving my skills in Java, Python, Git, Docker, and model evaluation
 *  Looking for internship opportunities in AI, Machine Learning, or Software Engineering
 
 ---
@@ -16,7 +13,7 @@
 ## 🛠️ Technologies & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,springboot,reactjs,git,github,docker,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,java,git,github,docker,mysql" />
 </p>
 
 <p>
